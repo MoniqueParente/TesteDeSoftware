@@ -1,1 +1,1 @@
-# Teste De Software com Python e Selenium
+# Teste De Software com Python/Jupiter e Selenium
